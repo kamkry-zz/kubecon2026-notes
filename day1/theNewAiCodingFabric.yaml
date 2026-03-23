@@ -1,0 +1,18 @@
+dateTime: 14:05 CET, Monday 23rd March 2026
+path: "Agentics Day: MCP + Agents"
+title: "The New AI Coding Fabric"
+notes:
+- Context is the new Code
+- Spec Driven Development (SDD) - writing specs that agents can understand and execute
+- A simple idea for a SKILLs review - markdown linting to check that all required stuff is there
+- Undetermism in AI skills and agents and CI/CD - think of error budgets
+- error budget:
+  - Can I take such risk?
+  - Maybe just lower the blast radius of this change?
+- contexts can be (and indeed are) packed and versioned, then kept in registry
+- contexts may be BOMed (Bill of Materials) - a list of contexes and their versions that were used to generate a given output
+- agents actions and contexts can be logged
+- agents logs:
+  - https://cognition.ai/agent-logs
+- great idea is to feed <lessons learned> back into the system, to improve it over time. Hook a MCP to dev AI that knows what code broke the production and in which way
+myPersonalImportance: 2

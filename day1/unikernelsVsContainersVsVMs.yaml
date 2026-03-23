@@ -1,0 +1,11 @@
+dateTime: 12:30 CET, Monday 23rd March 2026
+path: Kubernetes on Edge Day
+title: Unikernels vs Containers vs VMs
+notes:
+- just a timeline of evolution from VMM, micro VMs, containers, cGroups, OCI, and then unikernels
+- a unikernel is:
+  - purpose-built for a single application
+  - single address space
+  - 'example: nanois, miracleOS'
+  - urunc - a unikernel runtime for k8s, gotta check this one out
+myPersonalImportance: 2

@@ -1,6 +1,6 @@
 dateTime: 9:10 CET, Monday 23rd March 2026
 path: Observability Day
-Title: Project updates
+title: Project updates
 notes:
   toCheck: 
   - Otel collector or FluentBit (prefer former)

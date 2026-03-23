@@ -1,6 +1,6 @@
 dateTime: 10:00 CET, Monday 23rd March 2026
 path: Observability Day
-Title: Before you let AI touch production
+title: Before you let AI touch production
 notes:
 - three advices were presented, for what to keep in minde before enabling auto-remediation in production by AI
 - ensure You have full view on the app

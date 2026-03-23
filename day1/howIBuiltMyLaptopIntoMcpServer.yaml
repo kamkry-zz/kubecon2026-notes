@@ -1,0 +1,12 @@
+dateTime: 14:35 CET, Monday 23rd March 2026
+path: "Agentics Day: MCP + Agents"
+title: "How I built my laptop into an MCP server"
+notes:
+- Finding a solution to YAML reuse between clusters and teams responsible. Find better way to estimate limits then guessing
+- main app in Python
+- the MCP server is just a bunch of files, every dev can run it straight from VS Code
+- Python MCP server specs:
+  - fastmcp library
+  - default values and labels for k8s YAMLs
+- I need to write my own MCP server, looks fairly simple and team can utilize it!
+myPersonalImportance: 3
