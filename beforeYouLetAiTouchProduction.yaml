@@ -1,0 +1,8 @@
+dateTime: 10:00 CET, Monday 23rd March 2026
+path: Observability Day
+Title: Before you let AI touch production
+notes:
+- three advices were presented, for what to keep in minde before enabling auto-remediation in production by AI
+- ensure You have full view on the app
+- ensure, that You have all the context of the app, and that the AI has it as well
+- ensure the guardrails are in place, and that You have a way to stop the AI if it goes rogue

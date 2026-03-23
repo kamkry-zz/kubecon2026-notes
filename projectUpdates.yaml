@@ -1,0 +1,11 @@
+dateTime: 9:10 CET, Monday 23rd March 2026
+path: Observability Day
+Title: Project updates
+notes:
+  toCheck: 
+  - Otel collector or FluentBit (prefer former)
+  - OpenSearch:
+    - this has a lot of cool looking dashboards for applications
+    - also, some insights for AI workloads and agents
+    - has a OpenSearch Observability Stack that (should) deploy easily in a one-click way
+    - Booth 230 at the Pavillion
