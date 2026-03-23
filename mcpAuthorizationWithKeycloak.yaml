@@ -2,3 +2,15 @@ dateTime: 10:40 CET, Monday 23rd March 2026
 path: Keycloak Day
 Title: Model Context Protocol(MCP) Authorization for Enterprise Use Case With Keycloak
 notes:
+- idea is to use something called ID-JAG flow
+- ID-JAG is composed of two main actions: 
+  - Assertion Issuance
+  - Assertion Consumption
+- Presented idea spreads flow into three main components:
+  - Keycloak (acting as MCP Authorization Server)
+  - Okta (acting as IdP for users)
+  - User
+- I'm not sure, why IdP was federated to Okta instead of using Keycloak's built-in user management, but it could be for better user experience or existing infrastructure.
+- From the recorded demo, it seems that Okta acts mainly as a frontend for the authentication. Maybe it provides safer approach of not presenting Keycloak directly to WAN?
+- I've gotta check, if Okta is OSS and whether it can easily integrate with our smartphones for simple verification by push notifications or biometrics.
+myPersonalImportance: 3

@@ -1,0 +1,8 @@
+dateTime: 11:15 CET, Monday 23rd March 2026
+path: Observability Day
+Title: How to Use OpenTelemetry Demo and Why it matters
+notes:
+- Seems to be a cool application to demonstrate the power of OpenTelemetry in services
+- Looks great, simple <make start> spawned demo UI, Grafana dashboards, Jaeger and other componentes # imporant
+url: https://github.com/open-telemetry/opentelemetry-demo.git
+myPersonalImportance: 3
