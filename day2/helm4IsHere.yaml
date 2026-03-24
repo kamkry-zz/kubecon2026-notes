@@ -1,0 +1,9 @@
+dateTime: 12:00 CET, Tuesday, 24 March 2026
+path: Maintainer Path
+title:
+  - name: Helm 4 is here
+    notes:
+    - mostly about (rather subtle) changes in chart schema v2 -> v3
+    - a lot of talk was dedicated to review process of HIP (Helm Improvement Proposal) and how it is now more open and inclusive
+    url: null
+    myPersonalImportance: 1

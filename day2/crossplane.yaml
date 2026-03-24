@@ -1,0 +1,10 @@
+dateTime: 15:15 CET, Tuesday, 24 March 2026
+path: Maintainer Path
+title:
+  - name: Crossplane - The Cloud Native Framework for Platform Engineering
+    notes:
+    - a quick explanation of Crossplane, with examples of XRDs and Compositions
+    - from the live demo, I see that it is mostly about pre-defined resources that can be deployed by anyone, followinf the guardrails
+    -  a nice tool to enable devs to deploy stuff by themselves, without needing to ask the platform team for help
+    url: https://crossplane.io/
+    myPersonalImportance: 2

@@ -1,0 +1,15 @@
+dateTime: 14:30 CET, Tuesday, 24 March 2026
+path: AI + ML
+title:
+  - name: Make GenAI production ready with Kubernetes patterns
+    notes:
+    - KServe application - a control operator for inference services
+    - talk covered a few, exemplary patterns for deploying LLM to kubernetes
+    - most is described in the ebooks:
+      - url_one: https://developers.redhat.com/content-gateway/file/v5/Kubernetes-patterns-2e-Red-Hat-Developer-ebook.pdf
+      - url_two: https://www.oreilly.com/library/view/generative-ai-on/9781098171919/
+    - a cool approach to mount model data to the container by a simple mount
+    - routing of prompts is very different from kube-proxy - it has to be aware of KV cache of a given vLLM; it's called prefix-aware routing
+    - 
+    url: https://github.com/kserve/kserve
+    myPersonalImportance: 3

@@ -1,0 +1,56 @@
+dateTime: 09:00 CET, Tuesday, 24 March 2026
+path: Keynote Talks
+title:
+  - name: Achieving State of the Art Inference Performance with llm-d
+    notes:
+    - llm-d is a clustered vLLM mgmt system
+    - from what has been said, llm-d is supposed to wrap also the load balancing for the prompts, to schedule them on relevant GPUs
+    url: https://llm-d.ai/
+    myPersonalImportance: 3
+
+  - name: Whats next with AI Conformance
+    notes:
+    - cool, live demo of required components fo Ai workloads on k9s
+    - again, llm-d on AWS
+    myPersonalImportance: 1
+
+  - name: Rules of the road for the shared GPUs
+    notes:
+    - scheduling AI workloads with Kueue
+    url: https://github.com/kubernetes-sigs/kueue
+    myPersonalImportance: 2
+
+  - name: From complexity to clarity
+    notes:
+    - talk about Karpenter, Kro and Cedar Policy
+    myPersonalImportance: 1
+
+  - name: Making Kuberbetes for AI Optimized and Reproducible
+    notes:
+    - aicr - a cli tool that creates a recipe for GPU-accelerated k8s clusters; AI Cluster Runtime
+    - seems to be limited to AKS and EKS and Nvidia H100 -- to be checked
+    url: https://github.com/NVIDIA/aicr
+    myPersonalImportance: 2
+
+  - name: From Inference to Agents where Open Source AI is Headed
+    notes:
+    - nothing interesting, just a general talk about the future of AI and open source
+    myPersonalImportance: 1
+
+  - name: The Future of Clouds Native is Agentic
+    notes:
+    - some cool dashboard with AI agents visualization, Kiali
+    - argoCD agent, kagent -- all for k8s
+    - presenter quickly built and app, agent deployed it with argo to cluster and, effectively, drone flight on the stage was a success
+    url: https://kiali.io/
+    myPersonalImportance: 2
+
+  - name: Scaling platform Ops with AI Agents
+    notes:
+    - short demo of Headlamp capabilities with HolmesGPT AI agent tht opens PR, rather boring
+    myPersonalImportance: 1
+
+  - name: Bar
+    notes:
+    - Bar note
+    myPersonalImportance: int
