@@ -1,0 +1,10 @@
+dateTime: 11:45 CET, Wednesday, 25 March 2026
+path: Cloud Native Novice
+title:
+  - name: "Kube-Oddities - The Quirks That Keep Kubernetes Interesting"
+    notes:
+    - hide pods from k8s API -- create a Static Manifest on the node, in a NS that doesn't exist
+    - Book:
+      - Kubernetes teh Very Hard Way
+    url: url
+    myPersonalImportance: 1

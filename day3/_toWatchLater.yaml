@@ -1,0 +1,10 @@
+titles:
+- "GPUs on Kubernetes: What Actually Happens When You Request Nvidia.com/gpu":
+  - url: YouTube_link
+  - path: "AI + ML"
+- "From “It Works!” to “It’s Secure!”: Hardening Your First Kubernetes Cluster":
+  - url: YouTube_link
+  - path: "Cloud Native Novice"
+- "Foo":
+  - url: YouTube_link
+  - path: "Some Path"
