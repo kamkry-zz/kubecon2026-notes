@@ -1,0 +1,12 @@
+dateTime: 09:00 CET, Thursday, 26 March 2026
+path: Keynote Talks
+title:
+  - name: Bar
+    notes:
+    - Bar note
+    myPersonalImportance: int
+
+  - name: Bar
+    notes:
+    - Bar note
+    myPersonalImportance: int

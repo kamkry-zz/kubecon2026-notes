@@ -1,0 +1,8 @@
+titles:
+- "Foo":
+  - url: YouTube_link
+  - path: "Some Path"
+
+- "Foo":
+  - url: YouTube_link
+  - path: "Some Path"

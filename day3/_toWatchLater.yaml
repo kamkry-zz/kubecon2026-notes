@@ -5,6 +5,6 @@ titles:
 - "From “It Works!” to “It’s Secure!”: Hardening Your First Kubernetes Cluster":
   - url: YouTube_link
   - path: "Cloud Native Novice"
-- "Foo":
+- "How Manual OTel Instrumentation Saves More Than Just Money":
   - url: YouTube_link
-  - path: "Some Path"
+  - path: "Observability"
